@@ -1,0 +1,21 @@
+# Core Data Handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization (used in analysis / EDA)
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.4.2
+joblib==1.4.2
+
+# NLP / Text Processing
+nltk==3.8.1
+
+# Notebook Environment
+jupyter==1.0.0
+notebook==7.2.0
+
+# Utilities
+tqdm==4.66.4
